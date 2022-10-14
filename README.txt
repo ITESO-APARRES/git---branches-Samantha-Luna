@@ -6,3 +6,5 @@ se iran actualizando branches dentro de git.
 
 Nombre del alumno: Samantha Veronica Luna Rivera
 Fecha de hoy: 13/10/2022
+
+CAMBIO REALIZADO DESDE GITHUB 
